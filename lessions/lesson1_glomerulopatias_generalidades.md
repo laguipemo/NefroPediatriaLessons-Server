@@ -31,10 +31,10 @@ Se manifiestan clínicamente por un número limitado de síntomas, que son conse
 - Así, el aumento de la permeabilidad de la pared capilar glomerular se expresa por la pérdida de proteínas en la orina (proteinuria), a ello se suma que el aumento de la permeabilidad puede llegar a permitir el paso de elementos celulares de la sangre a la orina, apareciendo hematíes en la orina (hematuria).
 
 
-- La disminución de la superficie de filtración por el daño glomerular determina la disminución de la tasa de filtración glomerular (IR, oliguria).
++ La disminución de la superficie de filtración por el daño glomerular determina la disminución de la tasa de filtración glomerular (IR, oliguria).
 
 
 - Los trastornos en la regulación de la excreción renal de sodio y agua determinan la aparición de hipertensión arterial (HTA) y edema (también contribuye la hipoproteinemia secundaria a la proteinuria).
 
 
-- Síntomas particulares de las diferentes enfermedades sistémicas que involucran al riñón.
++ Síntomas particulares de las diferentes enfermedades sistémicas que involucran al riñón.

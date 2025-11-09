@@ -19,7 +19,7 @@ De acuerdo al síndrome clínico más común con que habitualmente se presentan,
 - Enfermedad de Cambios Glomerulares Mínimos Idiopática (ECGM)
 
 
-- Glomeruloesclerosis Segmentaria Focal Idiopática (GESF), incluye colapsante
++ Glomeruloesclerosis Segmentaria Focal Idiopática (GESF), incluye colapsante
 
 
 - Glomerulopatía Membranosa Idiopática (GNMI)
@@ -30,7 +30,7 @@ De acuerdo al síndrome clínico más común con que habitualmente se presentan,
 - Glomerulonefritis Aguda Pos-infecciosa
 
 
-- Glomerulonefritis Membranoproliferativa Idiopática (GMPI)
++ Glomerulonefritis Membranoproliferativa Idiopática (GMPI)
 
 
 ### Síndrome glomerulonefritico rápidamente progresivo (SGNRP)  
@@ -45,7 +45,7 @@ De acuerdo al síndrome clínico más común con que habitualmente se presentan,
 - Nefropatía IgA (NIgA)
 
 
-- Nefropatía por membrana basal glomerular fina (NMBGF)
++ Nefropatía por membrana basal glomerular fina (NMBGF)
 
 
 |Entidad|SN|SNA|SGNRP|SGAUA|SGNC|
