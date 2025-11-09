@@ -1,4 +1,3 @@
-
 <h1><font style="color: #415F91"> Glomerulopatías </font></h1>
 
 ![alt text](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/glomerulopatia.jpg "Glormerulopatías. Generalidades")
