@@ -1,13 +1,18 @@
 # Glomerulopatías
 
+
 ![alt text](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/glomerulopatia.jpg "Glormerulopatías. Generalidades")
 
+
 ## Generalidades 
+
 
 Los términos glomerulonefritis (GN) o glomerulopatías (GP) se emplean indistintamente, aunque se prefiere el segundo, se usan para designar a aquellas enfermedades que afectan a la estructura y función del glomérulo, aunque posteriormente se pueden ver implicadas las demás estructuras de la nefrona. Se caracterizan por la presencia de elementos formes (hematíes, cilindros, leucocitos) y macromoléculas (proteínas) en la orina, con grados variables de insuficiencia renal (IR), hipertensión arterial (HTA), edemas y oliguria.
 
 
 La lesión glomerular se produce en la mayoría de las ocasiones por un mecanismo inmunológico y puede obedecer a enfermedades renales específicas o ser secundaria a enfermedades sistémicas.
+
+
 Hablamos de glomerulopatías primarias cuando la afectación renal no es la consecuencia de una enfermedad más general y las manifestaciones clínicas están restringidas al riñón, es decir cuando el glomérulo es el tejido predominantemente afectado. De causa conocida (GN postestreptocócica) o no conocida o idiopática (entidades).
 
 
