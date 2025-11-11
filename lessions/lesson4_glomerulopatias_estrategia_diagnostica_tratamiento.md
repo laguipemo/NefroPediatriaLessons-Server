@@ -1,7 +1,7 @@
 # Glomerulopatías  
 
 
-![alt text](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/tratamiento.jpg "Glormerulopatías. Estrategia diagnóstica y terapéutica")
+![Imagen Glormerulopatías. Estrategia diagnóstica y terapéutica](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/tratamiento.jpg "Glormerulopatías. Estrategia diagnóstica y terapéutica")
 
 
 ## Estrategia diagnóstica y terapéutica  
@@ -74,7 +74,7 @@ Como primer paso diagnóstico **DETERMINAR POR CUAL SÍNDROME SE ESTÁ EXPRESAND
 En el  estudio y enfoque de las glomerulopatías, es muy útil tener presente el comportamiento de estas según complemento y pruebas serológicas lo que constituye otra forma que nos ayuda dirigir nuestros esfuerzos diagnósticos a un número limitado de causas o entidades:  
 
 
-![alt text](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/caracteristicas_clinicas_de_la_glomerulonefritis_aguda.png "Características clínicas de la glomerulonefritis aguda")
+![Esquema Características clínicas de la glomerulonefritis aguda](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/caracteristicas_clinicas_de_la_glomerulonefritis_aguda.png "Características clínicas de la glomerulonefritis aguda")
 
 
 ### Tratamiento general de las glomerulopatías primarias:  

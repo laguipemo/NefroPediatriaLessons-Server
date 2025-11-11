@@ -1,7 +1,7 @@
 # Glomerulopatías  
 
 
-![alt text](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/glomerulopatia_01.jpg "Glormerulopatías. Principales síndromes")
+![Imagen Glormerulopatías. Principales síndromes](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/glomerulopatia_01.jpg "Glormerulopatías. Principales síndromes")
 
 
 ## Principales síndromes  

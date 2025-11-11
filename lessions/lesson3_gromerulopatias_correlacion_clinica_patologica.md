@@ -1,7 +1,7 @@
 # Glomerulopatías  
 
 
-![alt text](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/glomerulopatias_04.jpg "Glormerulopatías. Correlación clinica-patológica")
+![Imagen Glormerulopatías. Correlación clínica-patológica](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/glomerulopatias_04.jpg "Glormerulopatías. Correlación clinica-patológica")
 
 
 ## Correlación clínica-patológica  

@@ -1,12 +1,7 @@
 # Glomerulopatías
 
-img[src$="#avatar"] {
-  display: block;
-  margin: 0 auto;
-  border-radius: 50%;
-  max-width: 50%;
-}
-![alt text](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/glomerulopatia.jpg#avatar "Glormerulopatías. Generalidades")
+
+![Imagen Glormerulopatías. Generalidades](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/glomerulopatia.jpg#avatar "Glormerulopatías. Generalidades")
 
 
 ## Generalidades 
