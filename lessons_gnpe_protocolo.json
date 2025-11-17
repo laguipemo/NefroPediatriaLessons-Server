@@ -1,7 +1,6 @@
 [
   {
     "id" : 1,
-    "topic_id" : 1,
     "title" : "Glomerulopatías. Generalidades.",
     "description" : "Aspectos genterales sobre las glomerulopatías.",
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/glomerulopatia.jpg",
@@ -13,7 +12,6 @@
   },
   {
     "id" : 2,
-    "topic_id" : 1,
     "title" : "Glomerulopatías. Principales sindromes.",
     "description" : "Principales síndromes glomerulares.",
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/glomerulopatia_01.jpg",
@@ -22,10 +20,10 @@
     "audio_uri" : "",
     "pdf_uri" : "",
     "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/lessons/lesson2_glomerulopatias_principales_sindromes.md"
+    
   },
   {
     "id" : 3,
-    "topic_id" : 1,
     "title" : "Glomerulopatías. Correlación clínica-patológica.",
     "description" : "Características etiopatogénicas y evolutivas en la identificación de las glomerulopatías primarias.",
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/glomerulopatias_04.jpg",
@@ -37,7 +35,6 @@
   },
   {
     "id" : 4,
-    "topic_id" : 1,
     "title" : "Glomerulopatías. Estrategia diagnóstica y terapéutica.",
     "description" : "Estrategia diagnóstica y terapéutica seguida en las glomerulopatías.",
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/tratamiento.jpg",
@@ -49,7 +46,6 @@
   },
   {
     "id" : 5,
-    "topic_id" : 1,
     "title" : "Glomerulopatías. Recursos adicionales.",
     "description" : "Recursos adicionales (enlaces, videos, presentaciones, etc) sobre glomerulopatías.",
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/glomerulopatias_03.jpg",
@@ -61,7 +57,6 @@
   },
   {
     "id" : 5,
-    "topic_id" : 1,
     "title" : "Glomerulopatías. Autoevaluación.",
     "description" : "Autoevaluación sobre glomerulopatias.",
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/autoevaluacion.jpeg",
@@ -73,7 +68,6 @@
   },
   {
     "id" : 6,
-    "topic_id" : 2,
     "title" : "Síndrome nefrítico agudo posinfeccioso.",
     "description" : "Introducción al síndrome nefrítico agudo posinfeccioso.",
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/sindrome_nefritico.jpg",
@@ -85,7 +79,6 @@
   },
   {
     "id" : 7,
-    "topic_id" : 2,
     "title" : "Glomerulonefritis difusa aguda. Sospecha clínica, formas de presentación.",
     "description" : "Sospecha clínica y formas de presentación de la glomerulonefritis difusa aguda.",
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/sna_post_infeccioso.jpg",
@@ -97,7 +90,6 @@
   },
   {
     "id" : 8,
-    "topic_id" : 2,
     "title" : "Glomerulonefritis difusa aguda. Estrategia diagnóstica.",
     "description" : "Estrategias seguidas para el diagnóstico de la glomerulonefritis difusa aguda.",
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/sna_post_infeccioso_01.jpg",
@@ -109,7 +101,6 @@
   },
   {
     "id" : 9,
-    "topic_id" : 2,
     "title" : "Glomerulonefritis difusa aguda. Manejo, tratamiento, evolución, pronostico y complicaciones",
     "description" : "Indicaciones para el manejo, tratamiento, evolución, pronóstico y compliciones en la glomerulonefritis difusa aguda.",
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/tratamiento_01.jpg",
@@ -121,7 +112,6 @@
   },
   {
     "id" : 10,
-    "topic_id" : 2,
     "title" : "Glomerulonefritis difusa aguda. Recursos adicionales.",
     "description" : "Recursos adicionales (enlaces, videos, presentaciones, etc) sobre gromerulonefritis difusa aguda.",
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/sindrome_nefritico_03.jpg",
@@ -133,79 +123,6 @@
   },
   {
     "id" : 11,
-    "topic_id" : 2,
-    "title" : "Glomerulonefritis difusa aguda. Autoevaluación.",
-    "description" : "Autoevaluación para la glomerulonefritis difusa aguda.",
-    "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/autoevaluacion_01.jpeg",
-    "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/nefrologia_imagen_placeholder.jpg",
-    "video_uri" : "",
-    "audio_uri" : "",
-    "pdf_uri" : "",
-    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lessons/lesson11_glomerulonefritis_difusa_aguda_autoevaluacion.md"
-  },
-  {
-    "id" : 12,
-    "topic_id" : 3,
-    "title" : "Síndrome nefrítico agudo posinfeccioso.",
-    "description" : "Introducción al síndrome nefrítico agudo posinfeccioso.",
-    "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/sindrome_nefritico.jpg",
-    "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/nefrologia_imagen_placeholder.jpg",
-    "video_uri" : "",
-    "audio_uri" : "",
-    "pdf_uri" : "",
-    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lessons/lesson6_sindrome_nefritico_agudo_posinfeccioso.md"
-  },
-  {
-    "id" : 13,
-    "topic_id" : 3,
-    "title" : "Glomerulonefritis difusa aguda. Sospecha clínica, formas de presentación.",
-    "description" : "Sospecha clínica y formas de presentación de la glomerulonefritis difusa aguda.",
-    "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/sna_post_infeccioso.jpg",
-    "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/nefrologia_imagen_placeholder.jpg",
-    "video_uri" : "",
-    "audio_uri" : "",
-    "pdf_uri" : "",
-    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lessons/lesson7_glomerulonefritis _difusa_aguda_sospecha_clinica_formas_presentacion.md"
-  },
-  {
-    "id" : 14,
-    "topic_id" : 3,
-    "title" : "Glomerulonefritis difusa aguda. Estrategia diagnóstica.",
-    "description" : "Estrategias seguidas para el diagnóstico de la glomerulonefritis difusa aguda.",
-    "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/sna_post_infeccioso_01.jpg",
-    "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/nefrologia_imagen_placeholder.jpg",
-    "video_uri" : "",
-    "audio_uri" : "",
-    "pdf_uri" : "",
-    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lessons/lesson8_glomerulonefritis_difusa_aguda_estrategia_diagnostica.md"
-  },
-  {
-    "id" : 15,
-    "topic_id" : 3,
-    "title" : "Glomerulonefritis difusa aguda. Manejo, tratamiento, evolución, pronostico y complicaciones",
-    "description" : "Indicaciones para el manejo, tratamiento, evolución, pronóstico y compliciones en la glomerulonefritis difusa aguda.",
-    "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/tratamiento_01.jpg",
-    "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/nefrologia_imagen_placeholder.jpg",
-    "video_uri" : "",
-    "audio_uri" : "",
-    "pdf_uri" : "",
-    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lessons/llesson9_glomerulonefritis_difusa_aguda_manejo_tratamiento_evolucion_pronostico_complicaciones.md"
-  },
-  {
-    "id" : 16,
-    "topic_id" : 3,
-    "title" : "Glomerulonefritis difusa aguda. Recursos adicionales.",
-    "description" : "Recursos adicionales (enlaces, videos, presentaciones, etc) sobre gromerulonefritis difusa aguda.",
-    "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/sindrome_nefritico_03.jpg",
-    "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/nefrologia_imagen_placeholder.jpg",
-    "video_uri" : "",
-    "audio_uri" : "",
-    "pdf_uri" : "",
-    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lessons/lesson10_glomerulonefritis_difusa_aguda_recursos_adicionales.md"
-  },
-  {
-    "id" : 17,
-    "topic_id" : 3,
     "title" : "Glomerulonefritis difusa aguda. Autoevaluación.",
     "description" : "Autoevaluación para la glomerulonefritis difusa aguda.",
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/autoevaluacion_01.jpeg",

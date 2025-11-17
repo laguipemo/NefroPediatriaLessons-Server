@@ -1,0 +1,47 @@
+[
+  {
+    "id" : 1,
+    "title" : "Glomerulopatías. Generalidades.",
+    "description" : "Aspectos genterales sobre las glomerulopatías.",
+    "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/glomerulopatia.jpg",
+    "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/nefrologia_imagen_placeholder.jpg",
+    "video_uri" : "",
+    "audio_uri" : "",
+    "pdf_uri" : "",
+    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/lessons/lesson1_glomerulopatias_generalidades.md"
+  },
+  {
+    "id" : 2,
+    "title" : "Glomerulopatías. Principales sindromes.",
+    "description" : "Principales síndromes glomerulares.",
+    "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/glomerulopatia_01.jpg",
+    "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/nefrologia_imagen_placeholder.jpg",
+    "video_uri" : "",
+    "audio_uri" : "",
+    "pdf_uri" : "",
+    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/lessons/lesson2_glomerulopatias_principales_sindromes.md"
+    
+  },
+  {
+    "id" : 3,
+    "title" : "Glomerulopatías. Correlación clínica-patológica.",
+    "description" : "Características etiopatogénicas y evolutivas en la identificación de las glomerulopatías primarias.",
+    "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/glomerulopatias_04.jpg",
+    "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/nefrologia_imagen_placeholder.jpg",
+    "video_uri" : "",
+    "audio_uri" : "",
+    "pdf_uri" : "",
+    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/lessons/lesson3_gromerulopatias_correlacion_clinica_patologica.md"
+  },
+  {
+    "id" : 4,
+    "title" : "Glomerulopatías. Estrategia diagnóstica y terapéutica.",
+    "description" : "Estrategia diagnóstica y terapéutica seguida en las glomerulopatías.",
+    "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/tratamiento.jpg",
+    "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/nefrologia_imagen_placeholder.jpg",
+    "video_uri" : "",
+    "audio_uri" : "",
+    "pdf_uri" : "",
+    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/lessons/lesson4_glomerulopatias_estrategia_diagnostica_tratamiento.md"
+  }
+]
