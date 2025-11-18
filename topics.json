@@ -6,7 +6,7 @@
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/glomerulopatia.jpg",
     "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/nefrologia_imagen_placeholder.jpg",
     "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/topics/topic1_glomerulopatias.md",
-    "content" : "#### Lecciones:  - Generalidades.  + Principales síndromes.  - Correlación clínica-patológica.  + Estratégia diagnótica y terapéutica.  #### Recursos complementarios.  #### Autoevaluación"
+    "content" : """#### Lecciones:  - Generalidades.  + Principales síndromes.  - Correlación clínica-patológica.  + Estratégia diagnótica y terapéutica.  #### Recursos complementarios.  #### Autoevaluación"""
   },
   {
     "id" : 2,
