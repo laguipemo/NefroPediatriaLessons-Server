@@ -19,18 +19,18 @@
   },
   {
     "id" : 3,
-    "title" : "GPNE. Protocolo.",
+    "title" : "GPNE. Protocolo de actuación Institucional.",
     "description" : "En este tema se detalla a profundidad le protocolo de actuación Institucional en la glomerulonefritis postinfecciosa (GNPE)...",
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/glomerulopatias_03.jpg",
     "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/nefrologia_imagen_placeholder.jpg",
     "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/topics/topic3_gnpe_protocolo_de_actuacion_institucional.md",
-    "content" : "#### Lecciones:\n- Aspectos generales.\n- Glomerulonefritis difusa aguda postestreptocócica (GNDAPE).\n  - Introducción.\n  - Sospecha clínica.\n  - Formas de presentación.\n.  - Estrategia diagnóstica.\n  - Criterios de Biopsia Renal.\n  - Diagnóstico diferencial.\n  - Evolución, pronóstico, complicaciones.\n  - Manejo. Tratamiento farmacológico. Otras medidas.\n. - Criterios de alta hospitalaria y de la enfermedad.\n#### Recursos complementarios.\n#### Autoevaluación"
+    "content" : "#### Lecciones:\n- Aspectos generales.\n- Glomerulonefritis difusa aguda postestreptocócica (GNDAPE).\n  - Introducción.\n  - Sospecha clínica.\n  - Formas de presentación.\n  - Estrategia diagnóstica.\n  - Criterios de Biopsia Renal.\n  - Diagnóstico diferencial.\n  - Evolución, pronóstico, complicaciones.\n  - Manejo. Tratamiento farmacológico. Otras medidas.\n  - Criterios de alta hospitalaria y de la enfermedad.\n#### Recursos complementarios.\n#### Autoevaluación"
   },
   {
     "id" : 4,
     "title" : "Aplicación de conocimientos. Casos clínicos.",
     "description" : "En este acápite se evaluarán los conocimientos adquiridos en los temas anteriores, por medio de dos casos clínicos.",
-    "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/glomerulopatias_03.jpg",
+    "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/casos_clinicos.jpeg",
     "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/nefrologia_imagen_placeholder.jpg",
     "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/topics/topic4_aplicacion_de_conocimientos_casos_clinicos.md",
     "content" : "#### Lecciones:\n- Generalidades.\n- Principales síndromes.\n- Correlación clínica-patológica.\n- Estratégia diagnótica y terapéutica.\n#### Recursos complementarios.\n#### Autoevaluación"
