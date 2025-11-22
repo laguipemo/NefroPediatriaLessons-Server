@@ -1,7 +1,7 @@
 # Glomerulopatías
 
 
-![Imagen Glormerulopatías. Generalidades](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/glomerulopatia.jpg#avatar "Glormerulopatías. Generalidades")
+![Imagen Glormerulopatías. Generalidades](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/glomerulopatias_01.jpg#avatar "Glormerulopatías. Generalidades")
 
 
 ## Generalidades 

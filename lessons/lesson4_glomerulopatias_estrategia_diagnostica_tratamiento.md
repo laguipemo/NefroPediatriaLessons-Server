@@ -1,7 +1,7 @@
 # Glomerulopatías  
 
 
-![Imagen Glormerulopatías. Estrategia diagnóstica y terapéutica](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/tratamiento.jpg "Glormerulopatías. Estrategia diagnóstica y terapéutica")
+![Imagen Glormerulopatías. Estrategia diagnóstica y terapéutica](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/glomerulopatias_04.jpg "Glormerulopatías. Estrategia diagnóstica y terapéutica")
 
 
 ## Estrategia diagnóstica y terapéutica  
