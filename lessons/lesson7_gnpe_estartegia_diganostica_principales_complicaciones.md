@@ -85,7 +85,7 @@ Nifedipino (antagonista del calcio): 0,25-0,5 mg/kg/dosis (máximo 10 mg/dosis) 
 ### Algoritmo: Diagnóstico y tratamiento de la GNDAPE
 
 
-[![Algritmo: Diagnóstico y tratamiento de la GNDAPE.](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/algoritmo_diagnostico_y_tratamiento.png "Diagnóstico y tratamiento de la GNDAPE.")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/algoritmo_diagnostico_y_tratamiento.png "Diagnóstico y tratamiento de la GNDAPE.")
+[![Algritmo: Diagnóstico y tratamiento de la GNDAPE.](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/algoritmo_diagnostico_y_tratamiento_gndape.png "Diagnóstico y tratamiento de la GNDAPE.")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/algoritmo_diagnostico_y_tratamiento_gndape.png "Diagnóstico y tratamiento de la GNDAPE.")
 
 
 ### Criterios de alta hospitalaria y de la enfermedad.
