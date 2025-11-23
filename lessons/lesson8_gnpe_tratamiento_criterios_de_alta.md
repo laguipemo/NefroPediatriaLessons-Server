@@ -1,1 +1,53 @@
+# Glomerulonefritis postestrectococica.
 
+![Imagen GNPE. Tratamiento. Criterios de alta](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/gnpe_04.jpg "GNPE. Tratamiento. Criterios de alta")
+
+## Tratamiento. Criterios de alta.
+
+
+La GNPADE carece de tratamiento específico.
+
+
+[![Figura: Tratamiento.](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/figura_tratamiento.png "Tratamiento.")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/figura_tratamiento.png "Tratamiento.")
+
+
+#### Algunas consideraciones sobre el tratamiento.
+
+- Restricción hidrosalina: limitando ingesta de líquidos a 300-400 ml/m2/día (pérdidas insensibles) y la de Na a 1-2 meq/kg/día.
++ Dieta Hipoproteica: (0,6-0,8 g/Kg/día), mientras persista la IR, cuidados con potasio y fósforo
+- Cálculo: Ritmo diurético = volumen de orina recogida/peso Kg/horas en que se recogió. VN de 1-3 ml/Kg/h
++ Diuréticos del asa. Furosemida: necesaria en 80% de los casos. Es fundamental para la resolución del edema, de la hipertensión y de la hipervolemia. Dosis de 2 a 5 mg/kg en 2-3 dosis, oral o intravenosa, según gravedad del caso. Dosis máxima 20 mg/Kg/día
+- Hipertensión arterial (HTA): Cuando la gravedad de la hipertensión aconseja no esperar al efecto del tratamiento con diuréticos (furosemida). Lo requiere hasta el 50% de los casos. Se recomiendan de primera línea los anticalcicos y vasodilatadores directos:
+Nifedipino (antagonista del calcio): 0,25-0,5 mg/kg/dosis (máximo 10 mg/dosis) oral, cada 4-6 horas.
+  + Hidralazina (vasodilatador arteriolar directo) Oral: 0,75-1 mg/kg/día, repartidos cada 6-12 h (máximo 25 mg/dosis). Intravenoso e intramuscular a 0,1-0,2 mg/kg (máximo 20 mg); se puede repetir cada 4-6 h si precisa.
+  - Nitropusiato 0,5-8 ucg/Kg/min en perfusión EV o 1-2 mg/Kg (se reserva para encefalopatía en UCI)
+  + No usar diuréticos tiazidicos por resultar pocos efectivos
+  - No ahorradores de K, están contraindicados por riesgo de hiperpotasemia
+  + No usar IECA/ARA, contraindicados por riesgo de hiperpotasemia
+  - No usar BBloqueadores, por riesgo de ICC, No digitálicos
+  + Cuando se usan los antihipertensivos recomendados, se debe vigilar la frecuencia cardiaca, ya que son taquicardizantes y el Diazóxido retiene sodio y agua por lo que es obligado asociar con furosemida
+
+> REFERIR AL NEFRÓLOGO CUANDO SE PRESENTAN 2 O MÁS CRITERIOS DE BIOPSIA RENAL O NECESIDAD DE DIÁLISIS
+
+
+### Algoritmo: Diagnóstico y tratamiento de la GNDAPE
+
+
+[![Algritmo: Diagnóstico y tratamiento de la GNDAPE.](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/algoritmo_diagnostico_y_tratamiento_gndape.png "Diagnóstico y tratamiento de la GNDAPE.")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/algoritmo_diagnostico_y_tratamiento_gndape.png "Diagnóstico y tratamiento de la GNDAPE.")
+
+
+### Criterios de alta hospitalaria y de la enfermedad.
+
+
+[![Figura: Criterios de alta hospitalaria y de la enfermedad.](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/figura_criterios_alta_gndape.png "Criterios de alta hospitalaria y de la enfermedad.")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/figura_criterios_alta_gndape.png "Criterios de alta hospitalaria y de la enfermedad.")
+
+
+### Resumen.
+
+- La glomerulonefritis aguda postinfecciosa es una lesión inflamatoria de predominio glomerular y de patogenia inmune desencadenada por gran variedad de gérmenes. Es una enfermedad propia de la edad infantojuvenil, siendo los niños entre los 4 y los 14 años los más frecuentemente afectados. 
++ El prototipo es la glomerulonefritis aguda postestreptocócica y la presentación clínica más característica es el síndrome nefrítico agudo, aunque los casos subclínicos son muy numerosos.
+- La GNA debe ser considerada en cualquier niño que se presente con síntomas secundarios a sobrecarga de volumen, debiendo realizar un uroanálisis como prueba de diagnóstico inicial.
++ El descenso transitorio de C3 sérico es uno de los principales elementos de diagnóstico.
+- Generalmente no está indicada la biopsia para el diagnóstico, reservándose para casos de curso clínico atípico.
++ No hay tratamiento específico. El tratamiento es de soporte dirigido fundamentalmente a las complicaciones por sobrecarga de volumen e insuficiencia renal. Las medidas terapéuticas incluyen restricción de líquidos y de sal, tratamiento con diuréticos y erradicación del proceso infeccioso si permanece activo.
+- La evolución a largo plazo en los casos típicos es generalmente favorable, pero no está desprovisto de morbilidad aguda: el síndrome nefrítico agudo requiere ingreso hospitalario y puede cursar con complicaciones graves (edema agudo de pulmón, insuficiencia cardiaca, encefalopatía hipertensiva, necesidad de depuración extrarrenal).
