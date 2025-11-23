@@ -1,6 +1,6 @@
 # GNPE. Protocolo de actuación institucional.
 
-![Imagen GNDAPE. Itroducción.](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/protocolo_03.jpg "GNDAPE. Introducción.")
+![Imagen GNDAPE. Sospecha clínica. Formas de presentación.](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/protocolo_03.png "GNDAPE. Sospecha clínica. Formas de presentación")
 
 
 ## GNDAPE. Sospecha clínica. Formas de presentación.
