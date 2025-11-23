@@ -17,3 +17,22 @@
 
 > ***Resumen***
 El diagnóstico de GNAPI se inicia con el reconocimiento de un síndrome nefrítico agudo en un paciente previamente sano sin otras manifestaciones sistémicas, lo apoya el antecedente infeccioso (generalmente por SBHGA) y que curse con un C3 y CH50 disminuidos, y se confirma si empieza a remitir en una o dos semanas y el C3 normaliza antes de 8 semanas.
+
+
+### Criterios de biopsia.
+
+
+[![Diagrama: Criterios de biopsia](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/diagrama_criterios_de_biopsia.png "Criterios de biopsia")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/diagrama_criterios_de_biopsia.png "Criterios de biopsia")
+
+
+### Patología
+
+[![Figura: Patología](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/figura_patologia.png "Patología")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/figura_patologia.png "Patología")
+
+
+### Diagnóstico diferencial.
+
+[![Figura: Diagnóstico diferencial](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/figura_diagnostico_diferencial.png "Diagnóstico diferencial")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/figura_diagnostico_diferencial.png "Diagnóstico diferencial")
+
+
+
