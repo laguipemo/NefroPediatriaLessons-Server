@@ -1,6 +1,6 @@
 # GNPE. Protocolo de actuación institucional.
 
-![Imagen GNPE. Tratamiento. Criterios de alta](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/gnpe_04.jpg "GNPE. Tratamiento. Criterios de alta")
+![Imagen GNPE. Protocolo. Generalidades.](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/protocolo_01.png "GNPE. Protocolo. Generalidades.")
 
 
 ## Aspectos generales.
