@@ -1,9 +1,9 @@
 # GNPE. Protocolo de actuación institucional.
 
-![Imagen GNDAPE. Itroducción.](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/protocolo_02.png "GNDAPE. Introducción.")
+![Imagen GNDAPE. Itroducción.](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/protocolo_02.jpg "GNDAPE. Introducción.")
 
 
-## GNDAPE. Introduccioón.
+## GNDAPE. Introducción.
 
 Es el prototipo dentro de las glomerulopatías que se expresan como un síndrome nefrítico y dentro de este a las asociadas a infecciones. Se puede definir como una enfermedad glomerular bilateral, difusa y global que se presenta como una complicación no supurada (de tipo inmune) a una infección por estreptococo B hemolítico del grupo A con potencial nefritogénico, de localización faríngea (serotipos 1, 2, 4, 12, 25) o cutánea (2, 42, 49, 56, 57, 60), aunque también puede ser producida por estreptococos del grupo C y G.
 
