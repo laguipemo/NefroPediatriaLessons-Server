@@ -34,5 +34,10 @@ El diagnóstico de GNAPI se inicia con el reconocimiento de un síndrome nefrít
 
 [![Figura: Diagnóstico diferencial](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/figura_diagnostico_diferencial.png "Diagnóstico diferencial")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/figura_diagnostico_diferencial.png "Diagnóstico diferencial")
 
+> En estos diagnósticos el pronóstico es incierto a diferencia de lo benigno en casos de GNDAPE
 
 
+### Evolución
+
+
+[![Figura: Evolucióin](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/figura_gndape_evolucion.png "Evolución de la GNDAPE.")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/figura_gndape_evolucion.png "Evolución de la GNDAPE.")
