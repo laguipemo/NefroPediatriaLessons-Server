@@ -12,7 +12,7 @@
 
 ### Otros complementos a indicar.
 
-[![Esquema: Otros complementarios a indicar](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_otros_complementrios_a_indicar.png "Otros complementarios a indicar")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_otros_complementrios_a_indicar.png "Otros complementarios a indicar")
+[![Esquema: Otros complementarios a indicar](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_otros_complementarios_a_indicar.png "Otros complementarios a indicar")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_otros_complementarios_a_indicar.png "Otros complementarios a indicar")
 
 
 > ***Resumen***
