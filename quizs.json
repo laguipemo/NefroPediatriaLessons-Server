@@ -105,12 +105,9 @@
                 "type": "Question.OneChoice",
                 "question": "La dieta indicada en estos casos seria:",
                 "options": [
-                    "Hipocalórica, Hipograsa, Normosódica, Normoproteica, " +
-                            "líquidos normales.",
-                    "Normocalórica, Normograsa, Hiposódica, Normoproteica, " +
-                            "líquidos normales.",
-                    "Normocalórica, Normograsa, Hiposódica, Hipoproteica, " +
-                            "líquidos restringidos según pérdidas."
+                    "Hipocalórica, Hipograsa, Normosódica, Normoproteica, líquidos normales.",
+                    "Normocalórica, Normograsa, Hiposódica, Normoproteica, líquidos normales.",
+                    "Normocalórica, Normograsa, Hiposódica, Hipoproteica, líquidos restringidos según pérdidas."
                 ],
                 "correct_answers": [false, false, true]
             },
@@ -330,7 +327,7 @@
                     "Todos los casos para confirmar el diagnóstico.",
                     "Pacientes con evolución atípica o falta de mejoría.",
                     "Solo en pacientes adultos.",
-                    "Cuando la proteinuria es mayor a 3.5 g/24h.",
+                    "Cuando la proteinuria es mayor a 3.5 g/24h."
                 ],
                 "correct_answers": [false, true, false, false]
                 
