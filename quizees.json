@@ -60,7 +60,7 @@
                     "Hematuria, HTA, oliguria, edemas",
                     "Hematuria, proteinuria severa, edemas, lipiduria"
                 ],
-                "correctAnswers": [true, false]
+                "correct_answers": [true, false]
             },
             {
                 "type": "Question.OneChoice",
@@ -70,7 +70,7 @@
                     "Proteinuria",
                     "Edema"
                 ],
-                "correctAnswers": [true, false, false]
+                "correct_answers": [true, false, false]
             },
             {
                 "type": "Question.OneChoice",
@@ -79,7 +79,7 @@
                     "Glomerular",
                     "Extra glomerular"
                 ],
-                "correctAnswers": [true, false]
+                "correct_answers": [true, false]
             },
             {
                 "type": "Question.OneChoice",
