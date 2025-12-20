@@ -215,7 +215,7 @@
             {
                 "type": "Question.TrueFalse",
                 "question": "La GNDA Post-estreptocócica es una enfermedad frecuente en menores de 3 anos de edad",
-                "correct_answers": false
+                "correct_answer": false
             },
             {
                 "type": "Question.TrueFalse",
