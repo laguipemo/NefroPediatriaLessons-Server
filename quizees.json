@@ -3,7 +3,7 @@
         "id": 1,
         "topic_id": 1,
         "topic_title": "Glomerulopatías",
-        "questions": """[
+        "questions": [
             {
                 "type":"Question.MatchDefinition",
      	        "intro":"Dados los terminos: ",
@@ -45,14 +45,14 @@
                     "Todas"],
                 "correct_answers": [true, false, true, true, false]
             }
-        ]""".trimIndent(),
+        ],
         "nota_quiz": null
     },
     {
         "id": 2,
         "topic_id": 2,
         "topic_title": "Glormerulonefritis postinfecciosa (GNPE).",
-        "questions": ""[
+        "questions": [
             {
                 "type": "Question.OneChoice",
                 "question": "El Síndrome Nefritico Agudo se caracteriza por:",
@@ -257,14 +257,14 @@
                 "question": "De ser necesario el uso de algún antihipertensivo, los ideales y más seguros son los inhibidores de la enzima convertidora de la angiotensina (IECA) y los ARA II.",
                 "correct_answer": false
             }
-        ]""".trimIndent(),
+        ],
         "nota_quiz": null
     },
     {
         "id": 3,
         "topic_id": 3,
         "topic_title": "GNPE. Protocolo de actuación Institucional.",
-        "questions": """[
+        "questions": [
             {
                 "type": "Question.MatchDefinition",
                 "question": "La Glomerulonefritis Postestreptocócica (GNPE) se caracteriza por ser:",
@@ -376,7 +376,7 @@
                 ],
                 "correct_answers": [true, false, false, false]
             }
-        ]""".trimIndent(),
+        ],
         "nota_quiz": null
     }        
 ]
