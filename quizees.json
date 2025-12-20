@@ -266,7 +266,7 @@
         "topic_title": "GNPE. Protocolo de actuación Institucional.",
         "questions": [
             {
-                "type": "Question.MatchDefinition",
+                "type": "Question.MultipleChoice",
                 "question": "La Glomerulonefritis Postestreptocócica (GNPE) se caracteriza por ser:",
                 "options": [
                     "Una infección directa del riñón por Streptococcus.",
@@ -299,7 +299,7 @@
                 "correct_answers": [false, true, false, false]
             },
             {
-                "type": "Question.MatchDefinition",
+                "type": "Question.MultipleChoice",
                 "question": "¿Cuál de los siguientes hallazgos de laboratorio es más característico de la GNPE en su fase aguda?",
                 "options": [
                     "Disminución transitoria de C3 con ASLO elevado.",
