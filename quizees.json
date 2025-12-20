@@ -5,7 +5,7 @@
         "topic_title": "Glomerulopatías",
         "questions": [
             {
-                "type":"Question.MatchDefinition",
+                "type":"QuestionDto.MatchDefinitionDto",
      	        "intro":"Dados los terminos: ",
      	        "question":"Asigne la letra del término a su correspondiente descricpción: ",
      	        "options":{
@@ -25,7 +25,7 @@
      	        "correct_answers":["C","D","A","E","B"]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "Seleccione la combinación de síntomas y signos que hacen sospechar una Glomerulopatía.",
                 "options": [
                     "Dolor lumbo–abdominal, disuria, hematuria eumórfica, proteinuria y fiebre", 
@@ -35,7 +35,7 @@
                 "correct_answers": [false, false, true]
             },
             {
-                "type": "Question.MultipleChoice",
+                "type": "QuestionDto.MultipleChoiceDto",
                 "question": "Una adolescente de 15 años es ingresada en la sala de miscelánea porque al realizarle una analítica por astenia, artralgias, febrícula, caída del cabello, lesiones eritematosas en dorso de la nariz y aparición de edemas maleolares, objetivan anemia normocítica normocrómica (hemoglobina de 9 g/dl), creatinina sérica de 140 µmol/l, sedimento con microhematuria y proteinuria en tira reactiva de 500 mg/dl. ¿Cuál o cuáles serían las exploraciones complementarias que usted solicitaría en primer lugar dado el diagnóstico de presunción?",
                 "options": [
                     "Proteinuria en orina de 24 horas o por fórmula y estimación del filtrado glomerular", 
@@ -54,7 +54,7 @@
         "topic_title": "Glormerulonefritis postinfecciosa (GNPE).",
         "questions": [
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "El Síndrome Nefritico Agudo se caracteriza por:",
                 "options": [
                     "Hematuria, HTA, oliguria, edemas",
@@ -63,7 +63,7 @@
                 "correctAnswers": [true, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "El síntoma o signo que distingue al SNA es:",
                 "options": [
                     "Hematuria",
@@ -73,7 +73,7 @@
                 "correctAnswers": [true, false, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "La hematuria que presenta el SNA es de origen:",
                 "options": [
                     "Glomerular",
@@ -82,7 +82,7 @@
                 "correctAnswers": [true, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "En pediatría, la causa más frecuente de SNA es la asociada a infecciones:",
                 "options": [
                     "Virales",
@@ -93,7 +93,7 @@
                 "correct_answers": [false, true, false, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "Dentro de las enfermedades glomerulares que se expresan por SNA y que están causadas por infecciones, la más frecuente en los niños es:",
                 "options": [
                     "Glomerulonefritis difusa aguda post estreptococo B hemolítico del grupo A",
@@ -102,7 +102,7 @@
                 "correct_answers": [true, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "La dieta indicada en estos casos seria:",
                 "options": [
                     "Hipocalórica, Hipograsa, Normosódica, Normoproteica, líquidos normales.",
@@ -112,7 +112,7 @@
                 "correct_answers": [false, false, true]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "Como diuréticos, para controlar los edemas y la HTA podemos usar:",
                 "options": [
                     "Furosemida + Espironolactona.",
@@ -124,7 +124,7 @@
                 "correct_answers": [false, false, true, false, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "El ritmo diurético se calcula dividiendo la cantidad de orina recogida entre el número de horas en que se recogió, entre el peso en kg del paciente y se expresa en ml/kg/h. Su valor normal es:",
                 "options": [
                     "< 1 ml/kg/h",
@@ -134,7 +134,7 @@
                 "correct_answers": [false, true, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "",
                 "options": [
                     "Hipocalórica, Hipograsa, Normosódica, Normoproteica, líquidos normales.",
@@ -144,7 +144,7 @@
                 "correct_answers": [false, false, true]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "Como diuréticos, para controlar los edemas y la HTA podemos usar:",
                 "options": [
                     "Furosemida + Espironolactona.",
@@ -156,7 +156,7 @@
                 "correct_answers": [false, false, true, false, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "El ritmo diurético se calcula dividiendo la cantidad de orina recogida entre el número de horas en que se recogió, entre el peso en kg del paciente y se expresa en ml/kg/h. Su valor normal es:",
                 "options": [
                     "< 1 ml/kg/h",
@@ -166,7 +166,7 @@
                 "correct_answers": [false, true, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "Criterio de alta hospitalaria:",
                 "options": [
                     "Desaparición de los edemas, la oliguria, la HTA y la macroheamaturia.",
@@ -175,7 +175,7 @@
                 "correct_answers": [true, false]
             },
             {
-                "type": "Question.MultipleChoice",
+                "type": "QuestionDto.MultipleChoiceDto",
                 "question": "Las tres principales complicaciones de todo síndrome nefrítico son:",
                 "options": [
                     "Insuficiencia renal crónica.",
@@ -187,7 +187,7 @@
                 "correct_answers": [false, true, false, true, true]
             },
             {
-                "type": "Question.MatchDefinition",
+                "type": "QuestionDto.MatchDefinitionDto",
                 "question": "Dentro de las formas clínicas de presentación de la GNDA Pos-estreptocócica están: ",
                 "options":  [
                 "Síndrome nefrítico clásico.",
@@ -201,7 +201,7 @@
                 "correct_answers": [true, false, false, true, true, true, false]
             },
             {
-                "type": "Question.MultipleChoice",
+                "type": "QuestionDto.MultipleChoiceDto",
                 "question": "Constituyen criterios de biopsia renal para su diagnóstico:",
                 "options": [
                     "Hipocomplementemia mantenida, pasado 8 semanas.",
@@ -213,47 +213,47 @@
                 "correct_answers": [true, false, true, true, false]
             },
             {
-                "type": "Question.TrueFalse",
+                "type": "QuestionDto.TrueFalseDto",
                 "question": "La GNDA Post-estreptocócica es una enfermedad frecuente en menores de 3 anos de edad",
                 "correct_answers": false
             },
             {
-                "type": "Question.TrueFalse",
+                "type": "QuestionDto.TrueFalseDto",
                 "question": "Predomina en el sexo femenino y en países desarrollados, asociado a infecciones cutáneas",
                 "correct_answer": false
             },
             {
-                "type": "Question.TrueFalse",
+                "type": "QuestionDto.TrueFalseDto",
                 "question": "La GNDA Post-estreptocócica es una enfermedad frecuente en menores de 3 anos de edad",
                 "correct_answer": false
             },
             {
-                "type": "Question.TrueFalse",
+                "type": "QuestionDto.TrueFalseDto",
                 "question": "Existe un descenso transitorio de C3 y CH50, durante la fase aguda, que se normaliza hacia la sexta - octava semana de evolución, elemento clave en el diagnóstico clínico diferencial",
                 "correct_answer": true
             },
             {
-                "type": "Question.TrueFalse",
+                "type": "QuestionDto.TrueFalseDto",
                 "question": "La HTA que presenta es de causa renino - dependiente",
                 "correct_answer": false
             },
             {
-                "type": "Question.TrueFalse",
+                "type": "QuestionDto.TrueFalseDto",
                 "question": "Es una enfermedad autolimitada y de curso benigno pero con recaídas frecuentes",
                 "correct_answer": false
             },
             {
-                "type": "Question.TrueFalse",
+                "type": "QuestionDto.TrueFalseDto",
                 "question": "La persistencia de microhematuria aislada en el tiempo no constituye un signo de mal pronóstico",
                 "correct_answer": true
             },
             {
-                "type": "Question.TrueFalse",
+                "type": "QuestionDto.TrueFalseDto",
                 "question": "El tratamiento específico de la GNDA Post-estreptocócica es la Penicilina y si existiera alergia a esta, la Eritromicina o Azitromicina:",
                 "correct_answer": false
             },
             {
-                "type": "Question.TrueFalse",
+                "type": "QuestionDto.TrueFalseDto",
                 "question": "De ser necesario el uso de algún antihipertensivo, los ideales y más seguros son los inhibidores de la enzima convertidora de la angiotensina (IECA) y los ARA II.",
                 "correct_answer": false
             }
@@ -266,7 +266,7 @@
         "topic_title": "GNPE. Protocolo de actuación Institucional.",
         "questions": [
             {
-                "type": "Question.MatchDefinition",
+                "type": "QuestionDto.MatchDefinitionDto",
                 "question": "La Glomerulonefritis Postestreptocócica (GNPE) se caracteriza por ser:",
                 "options": [
                     "Una infección directa del riñón por Streptococcus.",
@@ -277,7 +277,7 @@
                 "correct_answers": [false, true, false, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "El período de latencia típico entre la infección estreptocócica y el inicio de la GNPE es de:",
                 "options": [
                     "1-4 días.",
@@ -288,7 +288,7 @@
                 "correct_answers": [false, true, false, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "El principal mecanismo fisiopatológico de la GNPE es:",
                 "options": [
                     "Depósito de anticuerpos anti-membrana basal glomerular.",
@@ -299,7 +299,7 @@
                 "correct_answers": [false, true, false, false]
             },
             {
-                "type": "Question.MatchDefinition",
+                "type": "QuestionDto.MatchDefinitionDto",
                 "question": "¿Cuál de los siguientes hallazgos de laboratorio es más característico de la GNPE en su fase aguda?",
                 "options": [
                     "Disminución transitoria de C3 con ASLO elevado.",
@@ -310,7 +310,7 @@
                 "correct_answers": [true, false, false, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "El cuadro clínico clásico de la GNPE NO incluye típicamente:",
                 "options": [
                     "Hematuria macroscópica.",
@@ -321,7 +321,7 @@
                 "correct_answers": [false, true, false, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "La biopsia renal en la GNPE está indicada principalmente en:",
                 "options": [
                     "Todos los casos para confirmar el diagnóstico.",
@@ -333,7 +333,7 @@
                 
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "El pilar del tratamiento de la GNPE se basa en:",
                 "options": [
                     "Inmunosupresores de alta potencia como la ciclofosfamida.",
@@ -344,7 +344,7 @@
                 "correct_answers": [false, true, false, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "¿Cuál es la actitud correcta respecto al uso de antibióticos en la GNPE ya establecida?",
                 "options": [
                     "Se indican siempre para erradicar focos residuales.",
@@ -355,7 +355,7 @@
                 "correct_answers": [false, true, false, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "El pronóstico a largo plazo de la GNPE en niños es:",
                 "options": [
                     "Generalmente desfavorable, con progresión a ERC.",
@@ -366,7 +366,7 @@
                 "correct_answers": [false, true, false, false]
             },
             {
-                "type": "Question.OneChoice",
+                "type": "QuestionDto.OneChoiceDto",
                 "question": "¿Qué complicación es más frecuente en adultos con GNPE en comparación con los niños?",
                 "options": [
                     "Insuficiencia renal crónica persistente.",
