@@ -128,38 +128,6 @@
                 "question": "El ritmo diurético se calcula dividiendo la cantidad de orina recogida entre el número de horas en que se recogió, entre el peso en kg del paciente y se expresa en ml/kg/h. Su valor normal es:",
                 "options": [
                     "< 1 ml/kg/h",
-                    "< 1 ml/kg/h",
-                    "> 3 ml/kg/h"
-                ],
-                "correct_answers": [false, true, false]
-            },
-            {
-                "type": "Question.OneChoice",
-                "question": "",
-                "options": [
-                    "Hipocalórica, Hipograsa, Normosódica, Normoproteica, líquidos normales.",
-                    "Normocalórica, Normograsa, Hiposódica, Normoproteica, líquidos normales.",
-                    "Normocalórica, Normograsa, Hiposódica, Hipoproteica, líquidos restringidos según pérdidas."
-                ],
-                "correct_answers": [false, false, true]
-            },
-            {
-                "type": "Question.OneChoice",
-                "question": "Como diuréticos, para controlar los edemas y la HTA podemos usar:",
-                "options": [
-                    "Furosemida + Espironolactona.",
-                    "Hidroclorotiazida + Espironolactona.",
-                    "Furosemida.",
-                    "Hidroclorotiazida.",
-                    "Cualquiera de las combinaciones."
-                ],
-                "correct_answers": [false, false, true, false, false]
-            },
-            {
-                "type": "Question.OneChoice",
-                "question": "El ritmo diurético se calcula dividiendo la cantidad de orina recogida entre el número de horas en que se recogió, entre el peso en kg del paciente y se expresa en ml/kg/h. Su valor normal es:",
-                "options": [
-                    "< 1 ml/kg/h",
                     "1 a 3 ml/kg/h",
                     "> 3 ml/kg/h"
                 ],
