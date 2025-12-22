@@ -192,7 +192,7 @@
             },
             {
                 "type": "Question.TrueFalse",
-                "question": "La GNDA Post-estreptocócica es una enfermedad frecuente en menores de 3 anos de edad",
+                "question": "Las manifestaciones clínicas por lo general aparecen a los 2-3 días después y muchas veces coinciden con la infección estreptocócica",
                 "correct_answer": false
             },
             {
