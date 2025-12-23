@@ -234,7 +234,7 @@
         "topic_title": "GNPE. Protocolo de actuación Institucional.",
         "questions": [
             {
-                "type": "Question.MultipleChoice",
+                "type": "Question.OneChoice",
                 "question": "La Glomerulonefritis Postestreptocócica (GNPE) se caracteriza por ser:",
                 "options": [
                     "Una infección directa del riñón por Streptococcus.",
