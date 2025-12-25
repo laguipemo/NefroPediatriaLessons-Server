@@ -1,0 +1,189 @@
+[
+    {
+        "id": 1,
+        "history": "Juan, un niño de 8 años, es llevado a consulta por sus padres por presentar orina de color \"coca-cola\" y edema en párpados y tobillos desde hace 3 días. Refiere que hace 2 semanas tuvo un cuadro de faringoamigdalitis purulenta que no recibió tratamiento antibiótico. A la exploración física: PA 145/95 mmHg, edemas en miembros inferiores.",
+        "questions": [
+            {
+                "type": "Question.OneChoice",
+                "question": "¿Cuál es su diagnóstico presuntivo más probable?",
+                "options": [
+                    "Infección urinaria",
+                    "Glomerulonefritis postestreptocócica",
+                    "Síndrome Nefrótico por Daño Mínimo",
+                    "Nefropatía por IgA"
+                ],
+                "correct_answers": [false, true, false, false]
+            },
+            {
+                "type": "Question.OneChoice",
+                "question": "¿Qué dos pruebas de laboratorio solicitaría de primera intención para apoyar su diagnóstico?",
+                "options": [
+                    "Hemograma y Velocidad de Sedimentación Globular (VSG).",
+                    "Urocultivo y Anticuerpos Antinucleares (ANA).",
+                    "Complemento C3 y Antiestreptolisina O (ASLO).",
+                    "Proteinuria de 24h y Albúmina sérica."
+                ],
+                "correct_answers": [false, false, true, false]
+            },
+            {
+                "type": "Question.OneChoice",
+                "question": "Si los resultados muestran C3 bajo y ASLO muy elevado, ¿Cómo interpreta estos hallazgos?",
+                "options": [
+                    "Confirman el diagnóstico de GNPE.",
+                    "Descartan el diagnóstico de GNPE.",
+                    "Son sugerentes pero no patognomónicos de GNPE.",
+                    "Indican una infección activa que requiere ingreso."
+                ],
+                "correct_answers": [false, false, true, false]
+            },
+            {
+                "type": "Question.OneChoice",
+                "question": "La medida terapéutica más urgente en este momento es:",
+                "options": [
+                    "Iniciar prednisona a 2 mg/kg/día.",
+                    "Iniciar un antihipertensivo para controlar la PA.",
+                    "Solicitar una biopsia renal inmediata.",
+                    "Iniciar diálisis por la insuficiencia renal."
+                ],
+                "correct_answers": [false, true, false, false]
+            },
+            {
+                "type": "Question.OneChoice",
+                "question": "¿Cuál sería la actitud más adecuada respecto al uso de antibióticos?",
+                "options": [
+                    "No indicarlos, la infección ya pasó.",
+                    "Indicar penicilina para erradicar posibles focos residuales.",
+                    "Esperar el resultado del cultivo faríngeo.",
+                    "Usar un antibiótico de amplio espectro por la gravedad."
+                ],
+                "correct_answers": [false, true, false, false]
+            },
+            {
+                "type": "Question.OneChoice",
+                "question": "¿Estaría indicada la biopsia renal en este caso típico?",
+                "options": [
+                    "Sí, siempre.",
+                    "No, en este momento.",
+                    "Solo si el edema empeora.",
+                    "Solo si la proteinuria es masiva."
+                ],
+                "correct_answers": [false, true, false, false]
+            },
+            {
+                "type": "Question.OneChoice",
+                "question": "¿Qué parámetro de seguimiento es el más importante para pronosticar la recuperación?",
+                "options": [
+                    "La normalización de la presión arterial.",
+                    "La normalización de los niveles de C3.",
+                    "La desaparición de la hematuria.",
+                    "El peso del paciente."
+                ],
+                "correct_answers": [false, true, false, false]
+            }
+        ],
+        "nota_case": null
+    },
+    {
+        "id": 2,
+        "history": "Escolar de 10 años, masculino, color de la piel negra, del área urbana.\nAPP e HO: Nada a señalar. APF: Padres hipertensos.\n MC: Dolores de cabeza, decaimiento y mucho sueño.\nHEA: Escolar que es traído a emergencia por sus padres, refiriendo que desde hace 3 días el niño venia quejándose de dolores de cabeza algo intenso, casi mantenido, generalizado y que ahora lo notan muy somnoliento. Al interrogatorio minucioso solo se recoge la historia de una faringoamigdalitis aguda con exudados y fiebre hace más de 15 días que fue tratada por su área con penicilina, pero que no se completó por decisión de los padres.\nExamen Físico: (Datos positivos)\nSe confirma la somnolencia, con tendencia al estupor y la obnubilación, sin detectarse focalización neurológica del cuadro. TA 180/120 mmHg; FC 120 l/min; edemas periorbital y perimaleolar.\nDe urgencia se realizan los siguientes complementarios:\nPunción Lumbar negativa; TAC de cráneo negativa; Pruebas toxicológicas en orina negativas; Uroanálisis en Tira: Proteína 0,3g; Hematíes 250/µl; Leucocitos 500/µl, en estudio al microscopio: Proteinuria 500mg; Hematíes 500.000/ml; Leucocitos 100.00/ml. Pruebas toxicológicas en sangre negativas, Creatinina 140 µmol/l, Urea 10 mmol/l.",
+        "questions": [
+            {
+                "type": "Question.MultipleChoice",
+                "question": "Problemas o hipótesis diagnósticas. Seleccione las dos más probables:",
+                "options": [
+                    "Primera hipótisis diagnóstica ------",
+                    "Segunda hipótisis diagnóstica ------",
+                    "Tercera hipótisis diagnóstica ------",
+                    "Cuarta hipótesis diagnóstica ------"
+                ],
+                "correct_answers": [false, true, true, false]
+            },
+            {
+                "type": "Question.MultipleChoice",
+                "question": "Seleccione Plan diagnóstico que sequirías para contrastar esas hipótesis, teníendo en cuenta lo que esperas encontrar en ellos y si estos requieren de algún requisito o condición especial para su realización.",
+                "options": [
+                    "Primera prueba diagnóstica, sin requisitios especiales. Se espera un valor de A superior a .....",
+                    "Primera prueba diagnóstica, con requisitos especiales como ..... Se espera un valor de A superior a ....",
+                    "Segunda prueba diagnóstica, sin requisitos especiales. Se espera un valor de B entre ... y .... g/ml....", 
+                    "Segunda prueba diagnóstica, con tales y mascuales requisitios especiales. Se espera un valor de B superior a ....",
+                    "Tercera prueba diagnóstica, sin requisitios especiales. Se espera un valor de C superior a ....",
+                    "Tercera prueba diagnóstica, con requisitos especiales como ..... Se espera un valor de C entre ... y .... g/ml....",
+                    "Cuarta prueba diagnóstica, sin requisitios especiales. Se espera un valor de D superior a ....",
+                    "Cuarta prueba diagnóstica, con requisitos especiales como ..... Se espera un valor de D entre ... y .... g/ml....",
+                    "Quinta prueba diagnóstica, sin requisitios especiales. Se espera un valor de E superior a ....",
+                    "Quinta prueba diagnóstica, con requisitos especiales como ..... Se espera un valor de E entre ... y .... g/ml...."
+                ],
+                "correct_answers": [false, true, true, false, false, false, false, false, true, false]
+            },
+            {
+                "type": "Question.MultipleChoice",
+                "question": "Según su diagnóstico positivo, ¿De qué otras formas clínicas pude presentarse esta enfermedad?",
+                "options": [
+                    "Forma clínica A.",
+                    "Forma clínica B.",
+                    "Forma clínica C.",
+                    "Forma clínica D."
+                ],
+                "correct_answers": [false, false, true, true]
+            },
+            {
+                "type": "Question.MultipleChoice",
+                "question": "¿Qué otras complicaciones puede presentar este paciente y que usted como médico de asistencia tiene que vigilar y prevenir?",
+                "options": [
+                    "Complicación A.",
+                    "Complicación B.",
+                    "Complicación C.",
+                    "Complicación D."
+                ],
+                "correct_answers": [true, false, true, false]
+            },
+            {
+                "type": "Question.MultipleChoice",
+                "question": "Plan terapéutico a seguir ante este caso",
+                "options": [
+                    "Iniciar prednisona a 2 mg/kg/día.",
+                    "Iniciar un antihipertensivo para controlar la PA.",
+                    "Solicitar una biopsia renal inmediata.",
+                    "Iniciar diálisis por la insuficiencia renal."
+                ],
+                "correct_answers": [true, true, false, false]
+            },
+            {
+                "type": "Question.MultipleChoice",
+                "question": "¿Ante que situaciones clínicas-humorales es obligatorio la valoración por nefrología?",
+                "options": [
+                    "Hipertensión arterial.",
+                    "Hematuria.",
+                    "Edema.",
+                    "Proteinuria.",
+                    "En todas las anteriores."
+                ],
+                "correct_answers": [false, false, true, true, false]
+            },
+            {
+                "type": "Question.MultipleChoice",
+                "question": "¿Cuáles serían los criterios de alta hospitalaria?",
+                "options": [
+                    "Criterio A.",
+                    "Criterio B.",
+                    "Criterio C.",
+                    "Criterio D."
+                ],
+                "correct_answers": [true, true, false, false]
+            },
+            {
+                "type": "Question.MultipleChoice",
+                "question": "¿Qué complementarios serían imprescindibles indicar para el seguimiento ambulatorio de este caso?",
+                "options": [
+                    "Complementario A.",
+                    "Complementario B.",
+                    "Complementario C.",
+                    "Complementario D."
+                ],
+                "correct_answers": [false, true, false, true]
+            }
+        ],
+        "nota_case": null
+    }
+
+]
