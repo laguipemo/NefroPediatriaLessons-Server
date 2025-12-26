@@ -2,6 +2,7 @@
     {
         "id": 1,
         "history": "Juan, un niño de 8 años, es llevado a consulta por sus padres por presentar orina de color \"coca-cola\" y edema en párpados y tobillos desde hace 3 días. Refiere que hace 2 semanas tuvo un cuadro de faringoamigdalitis purulenta que no recibió tratamiento antibiótico. A la exploración física: PA 145/95 mmHg, edemas en miembros inferiores.",
+        "image_url": "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/casos_clinicos_caso1.jpg",
         "questions": [
             {
                 "type": "Question.OneChoice",
@@ -86,6 +87,7 @@
     {
         "id": 2,
         "history": "Escolar de 10 años, masculino, color de la piel negra, del área urbana.\nAPP e HO: Nada a señalar. APF: Padres hipertensos.\n MC: Dolores de cabeza, decaimiento y mucho sueño.\nHEA: Escolar que es traído a emergencia por sus padres, refiriendo que desde hace 3 días el niño venia quejándose de dolores de cabeza algo intenso, casi mantenido, generalizado y que ahora lo notan muy somnoliento. Al interrogatorio minucioso solo se recoge la historia de una faringoamigdalitis aguda con exudados y fiebre hace más de 15 días que fue tratada por su área con penicilina, pero que no se completó por decisión de los padres.\nExamen Físico: (Datos positivos)\nSe confirma la somnolencia, con tendencia al estupor y la obnubilación, sin detectarse focalización neurológica del cuadro. TA 180/120 mmHg; FC 120 l/min; edemas periorbital y perimaleolar.\nDe urgencia se realizan los siguientes complementarios:\nPunción Lumbar negativa; TAC de cráneo negativa; Pruebas toxicológicas en orina negativas; Uroanálisis en Tira: Proteína 0,3g; Hematíes 250/µl; Leucocitos 500/µl, en estudio al microscopio: Proteinuria 500mg; Hematíes 500.000/ml; Leucocitos 100.00/ml. Pruebas toxicológicas en sangre negativas, Creatinina 140 µmol/l, Urea 10 mmol/l.",
+        "image_url": "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/casos_clinicos_caso2.jpg",
         "questions": [
             {
                 "type": "Question.MultipleChoice",
