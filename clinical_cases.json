@@ -90,99 +90,124 @@
         "image_url": "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/casos_clinicos_02.jpg",
         "questions": [
             {
-                "type": "Question.MultipleChoice",
-                "question": "Problemas o hipótesis diagnósticas. Seleccione las dos más probables:",
+                "type": "Question.OneChoice",
+                "question": "A partir de los datos clínicos y de laboratorio, ¿cuál es el diagnóstico más probable?",
                 "options": [
-                    "Primera hipótisis diagnóstica ------",
-                    "Segunda hipótisis diagnóstica ------",
-                    "Tercera hipótisis diagnóstica ------",
-                    "Cuarta hipótesis diagnóstica ------"
+                    "Meningitis bacteriana aguda",
+                    "Encefalitis viral",
+                    "Glomerulonefritis aguda postestreptocócica",
+                    "Síndrome nefrótico idiopático",
+                    "Intoxicación exógena"
                 ],
-                "correct_answers": [false, true, true, false]
+                "correct_answers": [false, false, true, false, false]
             },
             {
-                "type": "Question.MultipleChoice",
-                "question": "Seleccione Plan diagnóstico que sequirías para contrastar esas hipótesis, teníendo en cuenta lo que esperas encontrar en ellos y si estos requieren de algún requisito o condición especial para su realización.",
+                "type": "Question.OneChoice",
+                "question": "¿Cuál de los siguientes hallazgos apoya con mayor fuerza el diagnóstico sospechado?",
                 "options": [
-                    "Primera prueba diagnóstica, sin requisitios especiales. Se espera un valor de A superior a .....",
-                    "Primera prueba diagnóstica, con requisitos especiales como ..... Se espera un valor de A superior a ....",
-                    "Segunda prueba diagnóstica, sin requisitos especiales. Se espera un valor de B entre ... y .... g/ml....", 
-                    "Segunda prueba diagnóstica, con tales y mascuales requisitios especiales. Se espera un valor de B superior a ....",
-                    "Tercera prueba diagnóstica, sin requisitios especiales. Se espera un valor de C superior a ....",
-                    "Tercera prueba diagnóstica, con requisitos especiales como ..... Se espera un valor de C entre ... y .... g/ml....",
-                    "Cuarta prueba diagnóstica, sin requisitios especiales. Se espera un valor de D superior a ....",
-                    "Cuarta prueba diagnóstica, con requisitos especiales como ..... Se espera un valor de D entre ... y .... g/ml....",
-                    "Quinta prueba diagnóstica, sin requisitios especiales. Se espera un valor de E superior a ....",
-                    "Quinta prueba diagnóstica, con requisitos especiales como ..... Se espera un valor de E entre ... y .... g/ml...."
+                    "Punción lumbar negativa",
+                    "TAC de cráneo normal",
+                    "Hipertensión arterial severa con hematuria y proteinuria",
+                    "Pruebas toxicológicas negativas",
+                    "Leucocitosis urinaria aislada"
                 ],
-                "correct_answers": [false, true, true, false, false, false, false, false, true, false]
+                "correct_answers": [false, false, true, false, false]
             },
             {
-                "type": "Question.MultipleChoice",
-                "question": "Según su diagnóstico positivo, ¿De qué otras formas clínicas pude presentarse esta enfermedad?",
+                "type": "Question.OneChoice",
+                "question": "¿Cuál de los siguientes estudios complementarios es el más útil para confirmar la etiología del cuadro?",
                 "options": [
-                    "Forma clínica A.",
-                    "Forma clínica B.",
-                    "Forma clínica C.",
-                    "Forma clínica D."
+                    "Electroencefalograma",
+                    "ASLO (Antiestreptolisina O)",
+                    "Hemocultivo",
+                    "Serología viral",
+                    "Gasometría arterial"
                 ],
-                "correct_answers": [false, false, true, true]
+                "correct_answers": [false, true, false, false, false]
             },
             {
-                "type": "Question.MultipleChoice",
-                "question": "¿Qué otras complicaciones puede presentar este paciente y que usted como médico de asistencia tiene que vigilar y prevenir?",
+                "type": "Question.OneChoice",
+                "question": "En este paciente, ¿qué resultado sería esperado en los estudios inmunológicos?",
                 "options": [
-                    "Complicación A.",
-                    "Complicación B.",
-                    "Complicación C.",
-                    "Complicación D."
+                    "Complemento C3 disminuido",
+                    "Complemento C4 elevado",
+                    "ANA positivo",
+                    "Anti-DNA de doble cadena positivo",
+                    "IgE elevada"
                 ],
-                "correct_answers": [true, false, true, false]
+                "correct_answers": [true, false, false, false, false]
             },
             {
-                "type": "Question.MultipleChoice",
-                "question": "Plan terapéutico a seguir ante este caso",
+                "type": "Question.OneChoice",
+                "question": "Además de la forma clínica presentada, ¿de qué otra manera puede manifestarse esta enfermedad?",
                 "options": [
-                    "Iniciar prednisona a 2 mg/kg/día.",
-                    "Iniciar un antihipertensivo para controlar la PA.",
-                    "Solicitar una biopsia renal inmediata.",
-                    "Iniciar diálisis por la insuficiencia renal."
+                    "Insuficiencia renal crónica progresiva desde el inicio",
+                    "Hematuria microscópica asintomática",
+                    "Síndrome nefrótico puro",
+                    "Litiasis renal recurrente",
+                    "Infecciones urinarias de repetición"
                 ],
-                "correct_answers": [true, true, false, false]
+                "correct_answers": [false, true, false, false, false]
             },
             {
-                "type": "Question.MultipleChoice",
-                "question": "¿Ante que situaciones clínicas-humorales es obligatorio la valoración por nefrología?",
+                "type": "Question.OneChoice",
+                "question": "¿Cuál de las siguientes complicaciones debe vigilarse con MAYOR urgencia en este paciente?",
                 "options": [
-                    "Hipertensión arterial.",
-                    "Hematuria.",
-                    "Edema.",
-                    "Proteinuria.",
-                    "En todas las anteriores."
+                    "Hipoglucemia",
+                    "Crisis hipertensiva con encefalopatía",
+                    "Sepsis generalizada",
+                    "Anemia ferropénica",
+                    "Osteodistrofia renal"
                 ],
-                "correct_answers": [false, false, true, true, false]
+                "correct_answers": [false, true, false, false, false]
             },
             {
-                "type": "Question.MultipleChoice",
-                "question": "¿Cuáles serían los criterios de alta hospitalaria?",
+                "type": "Question.OneChoice",
+                "question": "El tratamiento inicial más adecuado para este paciente incluye:",
                 "options": [
-                    "Criterio A.",
-                    "Criterio B.",
-                    "Criterio C.",
-                    "Criterio D."
+                    "Corticoides a altas dosis",
+                    "Antibióticos de amplio espectro intravenosos",
+                    "Restricción de sodio, control hídrico, diurético de ASA y antihipertensivos",
+                    "Diálisis peritoneal inmediata",
+                    "Inmunosupresores"
                 ],
-                "correct_answers": [true, true, false, false]
+                "correct_answers": [false, false, true, false, false]
             },
             {
-                "type": "Question.MultipleChoice",
-                "question": "¿Qué complementarios serían imprescindibles indicar para el seguimiento ambulatorio de este caso?",
+                "type": "Question.OneChoice",
+                "question": "¿En cuál de las siguientes situaciones es OBLIGATORIA la valoración por nefrología?",
                 "options": [
-                    "Complementario A.",
-                    "Complementario B.",
-                    "Complementario C.",
-                    "Complementario D."
+                    "Hematuria microscópica aislada",
+                    "Proteinuria mayor de 300 mg/día",
+                    "Hipertensión arterial severa y deterioro de la función renal",
+                    "Edema periorbitario leve",
+                    "Antecedente familiar de hipertensión"
                 ],
-                "correct_answers": [false, true, false, true]
+                "correct_answers": [false, false, true, false, false]
+            },
+            {
+                "type": "Question.OneChoice",
+                "question": "¿Cuál de los siguientes criterios es necesario para otorgar el alta hospitalaria?",
+                "options": [
+                    "Desaparición completa de la hematuria",
+                    "Normalización inmediata del complemento",
+                    "Control de la presión arterial y mejoría del estado neurológico",
+                    "ASLO negativo",
+                    "Creatinina persistentemente elevada"
+                ],
+                "correct_answers": [false, false, true, false, false]
+            },
+            {
+                "type": "Question.OneChoice",
+                "question": "Para el seguimiento ambulatorio de este paciente, ¿cuál de los siguientes estudios es IMPRESCINDIBLE?",
+                "options": [
+                    "TAC de cráneo seriado",
+                    "Punción lumbar de control",
+                    "Uroanálisis seriado, control de la función renal y C3 entre la 6ta y la 8va semana de iniciado el cuadro clínico",
+                    "Pruebas toxicológicas periódicas",
+                    "Serología viral mensual"
+                ],
+                "correct_answers": [false, false, true, false, false]
             }
         ],
         "nota_case": null
