@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Asociación Española de Nefrología Pediátrica. Protocolos.",
+        "url": "https://www.aeped.es/publicaciones/protocolos/protocolos-diagnosticos-y-terapeuticos-nefrologia-pediatrica",
+        "description": "Protocolos diagnósticos y terapéuticos de Nefrología Pediátrica de la AENP."
+    },
+    {
+        "id": 2,
+        "title": "Asociación Española de Nefrología Pediátrica. Casos clínicos.",
+        "url": "https://www.aenp.es/actividades/casos-clinicos.html",
+        "description": "Casos clínicos breves sobre Nefrología Pediátrica de la AENP."
+    },
+    {
+        "id": 3,
+        "title": "Asociación Española de Nefrología Pediátrica. Guías de práctica clínica.",
+        "url": "https://www.aenp.es/actividades/guias-de-practica-clinica.html",
+        "description": "Guías de práctica clínica con participación de la AENP."
+    },
+    {
+        "id": 4,
+        "title": "Asociación Española de Nefrología Pediátrica. Video sobre Tubular Renal (ATR). ",
+        "url": "https://continuum.aeped.es/screens/play/609",
+        "description": "Píldora formativa sobre ATR de la AENP."
+    },
+    {
+        "id": 5,
+        "title": "Asociación Española de Nefrología Pediátrica. Anales de Nefrología Pediátrica.",
+        "url": "https://www.aenp.es/actividades/archivo-de-anales-de-nefrologia-pediatrica.html",
+        "description": "Archivo de Anales de Nefrología Pediátrica."
+    }
+]
