@@ -30,7 +30,7 @@
     "id" : 4,
     "title" : "Aplicación de conocimientos en casos clínicos.",
     "description" : "En este acápite se evaluarán los conocimientos adquiridos en los temas anteriores, por medio de dos casos clínicos.",
-    "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/casos_clinicos.jpeg",
+    "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/casos_clinicos.jpg",
     "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/placeholder.jpg",
     "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/topics/topic4_aplicacion_de_conocimientos_casos_clinicos.md",
     "content" : "#### Casos clínicos.\n#### Recursos complementarios."
